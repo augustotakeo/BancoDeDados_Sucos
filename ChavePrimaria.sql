@@ -1,0 +1,3 @@
+USE sucos;
+
+ALTER TABLE produto ADD PRIMARY KEY (PRODUTO);
